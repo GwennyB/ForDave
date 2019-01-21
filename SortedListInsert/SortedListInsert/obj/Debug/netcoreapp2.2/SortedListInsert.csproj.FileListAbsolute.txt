@@ -1,0 +1,11 @@
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\obj\Debug\netcoreapp2.2\SortedListInsert.csprojAssemblyReference.cache
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\obj\Debug\netcoreapp2.2\SortedListInsert.csproj.CoreCompileInputs.cache
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\obj\Debug\netcoreapp2.2\SortedListInsert.AssemblyInfoInputs.cache
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\obj\Debug\netcoreapp2.2\SortedListInsert.AssemblyInfo.cs
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\bin\Debug\netcoreapp2.2\SortedListInsert.deps.json
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\bin\Debug\netcoreapp2.2\SortedListInsert.runtimeconfig.json
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\bin\Debug\netcoreapp2.2\SortedListInsert.runtimeconfig.dev.json
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\bin\Debug\netcoreapp2.2\SortedListInsert.dll
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\bin\Debug\netcoreapp2.2\SortedListInsert.pdb
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\obj\Debug\netcoreapp2.2\SortedListInsert.dll
+C:\Users\gyzub\codefellows\401\Misc\SortedListInsert\SortedListInsert\obj\Debug\netcoreapp2.2\SortedListInsert.pdb
