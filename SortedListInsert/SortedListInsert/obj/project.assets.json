@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gyzub\\codefellows\\401\\Misc\\SortedListInsert\\SortedListInsert\\SortedListInsert.csproj",
+      "projectUniqueName": "C:\\Users\\gyzub\\codefellows\\401\\Misc\\ForDave\\SortedListInsert\\SortedListInsert\\SortedListInsert.csproj",
       "projectName": "SortedListInsert",
-      "projectPath": "C:\\Users\\gyzub\\codefellows\\401\\Misc\\SortedListInsert\\SortedListInsert\\SortedListInsert.csproj",
+      "projectPath": "C:\\Users\\gyzub\\codefellows\\401\\Misc\\ForDave\\SortedListInsert\\SortedListInsert\\SortedListInsert.csproj",
       "packagesPath": "C:\\Users\\gyzub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gyzub\\codefellows\\401\\Misc\\SortedListInsert\\SortedListInsert\\obj\\",
+      "outputPath": "C:\\Users\\gyzub\\codefellows\\401\\Misc\\ForDave\\SortedListInsert\\SortedListInsert\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

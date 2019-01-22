@@ -14,7 +14,7 @@ namespace SortedListInsert.Classes
             Head = null;
         }
 
-        public void InsertSorted (int value)
+        public void InsertSortedVOID (int value)
         {
             Node node = new Node(value);
 
@@ -45,6 +45,24 @@ namespace SortedListInsert.Classes
             Current.Next = node;
         }
 
+        public void InsertSorted (int value)
+        {
+            Node node = new Node(value);
+            Node temp = new Node(value - 1);
+            temp.Next = Head;
+            Current = temp;
+            node.Next = Head;
+
+            while(node.Next != null && node.Next.Value < node.Value)
+            {
+                Current = node.Next;
+                node.Next = Current.Next;
+            }
+            Current.Next = node;
+            Head = temp.Next;
+            temp.Next = null;
+
+        }
 
         public void PrintList ()
         {
